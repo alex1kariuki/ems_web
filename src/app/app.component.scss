@@ -1,0 +1,25 @@
+#map{
+    height: 100%;
+    width: 100%;
+}
+.card{
+    height: 95vh;
+    width: 16rem;
+    position: absolute;
+    margin: 20px;
+    border-radius: 10px;
+    // top: 0;
+    // left: 0;
+    // bottom: 0;
+    // background-color: rgba(255, 50, 50, 0.5);
+    z-index: 1000;
+    #title{
+        padding: 10px;
+    }
+    #date{
+        padding: 10px;
+    }
+    #time{
+        padding: 10px;
+    }
+}
