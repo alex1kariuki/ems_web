@@ -3,7 +3,7 @@
     width: 100%;
 }
 .card{
-    height: 95vh;
+    height: 94vh;
     width: 16rem;
     position: absolute;
     margin: 20px;
@@ -20,6 +20,9 @@
         padding: 10px;
     }
     #time{
+        padding: 10px;
+    }
+    #incidents{
         padding: 10px;
     }
 }
