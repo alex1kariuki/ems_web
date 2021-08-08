@@ -1,4 +1,4 @@
-# Emergency Responce Platform (First Response)
+# Emergency Response Platform (First Response)
 
 This project is geared to provide a platform where users can call into an emergency hotline and have their emergency call answered as well as a responce team sent to investigate the matter. The process pipeline looks something like the image below:
 
