@@ -4,15 +4,18 @@ This project is geared to provide a platform where users can call into an emerge
 
 ## Draft Architecture
 
+![Uploading Screen Shot 2021-08-08 at 8.53.08 AM.png…]()
 
 
 ## Draft UI design
 
 The UI design of the project is inspired by [Trevor Lang](https://dribbble.com/shots/6651328-E84-Headlamp/attachments/1421261?mode=media).
 
+<img width="1440" alt="Screen Shot 2021-08-08 at 8 54 29 AM" src="https://user-images.githubusercontent.com/22114609/128622316-b7083f36-265c-4507-b0a3-0212aa08b498.png">
+
 ## Services Offered
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
 
 ## Building the project
 
