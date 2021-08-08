@@ -4,7 +4,7 @@ This project is geared to provide a platform where users can call into an emerge
 
 ## Draft Architecture
 
-![Uploading Screen Shot 2021-08-08 at 8.53.08 AM.png…]()
+<img width="987" alt="Screen Shot 2021-08-08 at 8 53 08 AM" src="https://user-images.githubusercontent.com/22114609/128622396-f7034e2c-986c-4dfc-a140-7b2561418e7f.png">
 
 
 ## Draft UI design
