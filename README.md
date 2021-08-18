@@ -11,7 +11,7 @@ This project is geared to provide a platform where users can call into an emerge
 
 The UI design of the project is inspired by [Trevor Lang](https://dribbble.com/shots/6651328-E84-Headlamp/attachments/1421261?mode=media).
 
-<img width="1440" alt="Screen Shot 2021-08-08 at 8 54 29 AM" src="https://user-images.githubusercontent.com/22114609/128622316-b7083f36-265c-4507-b0a3-0212aa08b498.png">
+<img width="1440" alt="Screen Shot 2021-08-18 at 4 14 03 PM" src="https://user-images.githubusercontent.com/22114609/129904411-7b30343e-b248-43ad-b813-8177129d4bcd.png">
 
 ## Services Offered
 
